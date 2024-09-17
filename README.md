@@ -1,7 +1,7 @@
-Overview
+**Overview**
 This Keylogger is a Python-based project developed as part of a Cybersecurity course at Aston University. The purpose of this project is to demonstrate the potential risks and security vulnerabilities posed by malicious software and educate users on the importance of cybersecurity awareness. The code and instructions for running this tool have been intentionally left incomplete to prevent unauthorized use. This project is designed solely for academic purposes and to highlight ethical concerns surrounding cybersecurity threats.
 
-Features
+**Features**
 Captures all keystrokes on the system (disabled for this project to avoid misuse).
 Logs timestamps with each keystroke for monitoring purposes (disabled for this project).
 Basic file logging capabilities for analysis.
